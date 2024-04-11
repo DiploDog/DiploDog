@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiploDog (Igor Kron)
 - 👀 I’m interested in Data Science, Neural Networks, Python, Big Data
 - 🌱 I’m currently learning Data Analysis, Python, NumPy, Pandas, visualization tools
-- 💞️ I’m looking to collaborate on nothing at this moment :)
+- 💞️ I’m looking forward to any offers in Data Science :)
 - 📫 How to reach me:
                     tg: @Hooligano4ka
                     Slack: diplodoge
